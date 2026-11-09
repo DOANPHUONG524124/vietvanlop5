@@ -1,0 +1,6 @@
+{
+  "name": "Trợ lý Cú Mèo Thông Thái - Rừng Tri Thức Tiếng Việt Lớp 5",
+  "description": "Trợ lý giáo dục AI đồng hành cùng học sinh lớp 5 khám phá Tiếng Việt qua phương pháp Socratic, đánh giá 5 cột trụ, gamification Tổ Chim Học Tập, bảng điều khiển giáo viên và báo cáo phụ huynh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
